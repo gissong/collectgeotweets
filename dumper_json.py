@@ -6,6 +6,8 @@
 
 import tweepy #https://github.com/tweepy/tweepy
 import json
+import sys
+import os
 
 #Twitter API credentials
 consumer_key = ""
